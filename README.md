@@ -10,7 +10,7 @@ It is derived from the `light` example of esp-matter, simplified for a single GP
 
 ## Hardware
 
-- [Seeed Studio XIAO ESP32C5](https://wiki.seeedstudio.com/xiao_esp32c5_getting_started/)
+- Seeed Studio XIAO ESP32C5
 - Onboard LED on GPIO27 (active low)
 - Boot button on GPIO28
 
